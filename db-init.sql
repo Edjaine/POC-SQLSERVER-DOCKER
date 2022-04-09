@@ -4,5 +4,5 @@ GO
 CREATE DATABASE [teste-db]
 GO
 
-USE teste-db
+USE [teste-db]
 GO
